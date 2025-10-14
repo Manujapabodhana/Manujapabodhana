@@ -1,5 +1,3 @@
-<!-- Profile README for Manuja Pabodhana -->
-
 <h1 align="center">👋 Hi, I'm Manuja Pabodhana</h1>
 
 <p align="center">
@@ -30,15 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManujaPabodhana&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManujaPabodhana&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 📧 **Email:** *Add your email here*  
@@ -55,6 +44,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManujaPabodhana&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
-
 
 
