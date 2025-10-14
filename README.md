@@ -18,20 +18,23 @@
 
 #### 🛠️ Backend
 - Node.js  
+- Express.js  
 - Laravel  
+- .NET  
 
 ---
 
 ### 🌱 Currently Learning
 - Advanced React & Node.js development  
 - Building scalable full-stack web applications  
+- .NET backend development  
 
 ---
 
 ### 🤝 Connect with Me
 
-📧 **Email:** *Add your email here*  
-💼 **LinkedIn:** *Add your LinkedIn link here*  
+📧 **Email:** rpmanuja123@gmail.com  
+💼 **LinkedIn:** [Manuja Pabodhana](https://www.linkedin.com/in/manuja-pabodhana-23896a302)  
 
 ---
 
