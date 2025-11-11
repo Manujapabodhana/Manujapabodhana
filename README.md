@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Manuja Pabodhana</h1>
+t<h1 align="center">👋 Hi, I'm Manuja Pabodhana</h1>
 
 <p align="center">
   🚀 <b>Full-Stack Developer</b><br>
@@ -28,7 +28,7 @@
 ### 🌱 Currently Learning
 - Advanced React & Node.js development  
 - Building scalable full-stack web applications  
-- Spring Boot backend developm  
+- Spring Boot backend development  
 
 ---
 
