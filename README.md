@@ -1,4 +1,4 @@
-t<h1 align="center">👋 Hi, I'm Manuja Pabodhana</h1>
+<h1 align="center">👋 Hi, I'm Manuja Pabodhana</h1>
 
 <p align="center">
   🚀 <b>Full-Stack Developer</b><br>
